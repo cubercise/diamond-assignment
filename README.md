@@ -7,4 +7,4 @@ Feel free to ask any questions while interviewing.
 
 ## Prototype
 
-(prototype)[docs/prototype.png]
+!(prototype)[docs/prototype.png]
