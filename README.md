@@ -1,28 +1,37 @@
-# Diamond App
-
-Assigment aim to learn more about your technical skills on `frontend development` or `Backend development` (by provided alternative outputs).
-
-Please ensure `requirements` are clear for you.
-
-You are freely to modify protoype or output by your perference but retain concept of assignment.
+# โปรแกรมวาดสี่เหลี่ยมข้าวหลามตัด (Diamond App)
 
 
-__Important Notes__
-```
-It's paired-programming interview. 
-Feel free to ask any questions/ideas/suggestions about this assignment while interviewing, We want to know how you're doing on your day-to-day job
-```
+## ภาพรวม
 
-## Assignment Instructions 
+บททดสอบชิ้นนี้ มีจุดมุ่งหมายเพื่อเรียนรู้เพิ่มเติมเกี่ยวกับทักษะของผู้สมัครทางด้าน \
+`Frontend Development` หรือ `Backend Development` \
+\
+ผู้สมัครสามารถตรวจสอบว่า `ข้อกำหนด` ที่มีมาให้นั้น\
+ทำความเข้าใจและชัดเจนพอที่จะลงมือทำได้หรือไม่
 
-Given `N` as user input to draw Diamon on webpage.
 
-## Prototype
+## สำคัญมาก
 
-provide 2 output display types which are:
+> **ผู้สมัครมีอิสระในการปรับเปลี่ยนต้นแบบหรือเอาต์พุตตามความถนัด\
+> แต่ต้องยังคงแนวความคิดของการมอบหมายงานไว้**
 
-### Star Options
+
+>บททดสอบนี้เป็นบททดสอบที่ใช้ระหว่างการสัมภาษณ์ลักษณะ `mob/pair-programming`\
+>หากผู้สมัครมีข้อสงสัย หรือ ไอเดีย หรือ ต้องการสื่อสารอะไรเพิ่มเติ่มเกี่ยวกับบททดสอบ \
+>`สามารถสอบถามได้ตลอดเวลา` โดยเปรียบเสมือนผู้สมัครกำลังนั่งทำงานอยู่ในวันทำงานปกติ
+
+## ข้อกำหนด (Requirements)
+
+ให้ `N` เป็นข้อมูลที่รับเข้ามาเพื่อทำการวาด `สี่เหลี่ยมข้าวหลามตัด` หรือ `เพชร` บนเวปเพจได้\
+โดยสามารถเปลี่ยนแปลงการวาดได้ 2 รูปแบบคือ
+- วาดโดยแสดงเป็น `*`
+- วาดโดยแสดงเป็น `ตัวเลข`
+
+
+## ตัวอย่าง (Prototype)
+
+### วาดโดยแสดงเป็น `*`
 ![](docs/prototype-star.png)
 
-### Number Options
+### วาดโดยแสดงเป็น `ตัวเลข`
 ![](docs/prototype-number.png)
